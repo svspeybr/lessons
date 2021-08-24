@@ -53,5 +53,6 @@ print(telWoorden2("  Marie heeft  een enorme inktvis  "))
 ### "  Marie heeft  een inktvis " (Let op de spaties!)
 
 #Test for changes
-def test():
-    print("test")
+def commit(woord):
+    for letter in woord:
+        print(letter)
