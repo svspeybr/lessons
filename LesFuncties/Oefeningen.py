@@ -51,3 +51,5 @@ print(telWoorden2("  Marie heeft  een enorme inktvis  "))
 ### - in de derde kolom de waarde van 'aantal',
 ### bij het doorlopen van de for -lus in telWoorden2() voor de string:
 ### "  Marie heeft  een inktvis " (Let op de spaties!)
+
+#Test for changes
